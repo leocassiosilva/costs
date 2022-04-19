@@ -39,7 +39,7 @@ function App() {
           </Route>
         </Container>
       </Switch>
-      <p>Footer</p>
+      <Footer />
     </Router>
   );
 }
